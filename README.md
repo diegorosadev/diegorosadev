@@ -51,7 +51,7 @@ Desenvolvedor Front-End com 4 anos de experiência em criação de interfaces mo
 
 - LinkedIn: [linkedin.com/in/diegorosa](https://linkedin.com/in/diegorosa)
 - Portfólio: [diegorosa.dev](https://diegorosa.dev)
-- Email: **seuemail@email.com**
+- Email: **diegodossantos900@outlook.com**
 
 ---
 
