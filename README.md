@@ -57,7 +57,8 @@ Desenvolvedor Front-End com 4 anos de experiência em criação de interfaces mo
 
 ### 🚧 Projetos em destaque
 
-🔸 [Rick and Morty Explorer]([https://github.com/seuuser/projeto1](https://github.com/diegorosadev/rick-morty-react-app)) – Aplicação React com TypeScript + Material UI para explorar personagens da série Rick and Morty via API pública.
+🔸[Rick and Morty Explorer](https://github.com/diegorosadev/rick-morty-react-app)  
+  Aplicação React com TypeScript + Material UI para explorar personagens da série Rick and Morty via API pública.
 
 ---
 
