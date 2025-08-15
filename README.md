@@ -57,9 +57,7 @@ Desenvolvedor Front-End com 4 anos de experiência em criação de interfaces mo
 
 ### 🚧 Projetos em destaque
 
-🔸 [Nome do Projeto 1](https://github.com/seuuser/projeto1) – App completo com autenticação, consumo de API e dashboard responsivo  
-🔸 [Nome do Projeto 2](https://github.com/seuuser/projeto2) – Landing page performática feita com Tailwind + Vite  
-🔸 [Nome do Projeto 3](https://github.com/seuuser/projeto3) – Sistema interno com CRUD, filtros e integração com Firebase  
+🔸 [Rick and Morty Explorer]([https://github.com/seuuser/projeto1](https://github.com/diegorosadev/rick-morty-react-app) – Aplicação React com TypeScript + Material UI para explorar personagens da série Rick and Morty via API pública.
 
 ---
 
